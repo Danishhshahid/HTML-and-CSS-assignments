@@ -1,0 +1,42 @@
+.table1{
+    width: 1200px;
+    height: 300px;
+   
+    
+}
+td{
+    width: 20px;
+    height: 20px;
+}
+
+.bgcolororange{
+    background-color: #ff7f50;
+}
+.bgcolorPurple{
+    background-color:#da70d6 ;
+}
+.bg-color-Purple{
+    background-color: #7b68ee;
+}
+.bg-color-yellow{
+    background-color: #ffd700;
+}
+.bg-color-green{
+    background-color: #2e8b57;
+}
+.bg-color-brown{
+    background-color: #a0522d;
+
+}
+.bg-color-pink{
+    background-color: #fa8072;
+}
+.bg-color-blue{
+    background-color: #6495ed;
+}
+.bg-color-white{
+    background-color: white;
+}
+.bg-color-lightpink{
+    background-color: lightpink;
+}
